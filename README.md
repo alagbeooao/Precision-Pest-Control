@@ -13,3 +13,7 @@ The notebook also trains a small CNN from scratch as a baseline. It did not lear
 ## Running it
 
 Open the notebook in Colab, upload `agricultural-pests-image-dataset.zip` to `/content`, run the unzip cell first, then run the rest in order. The best model is saved with its class mapping for single-image prediction.
+
+## Author
+
+Oluwapelumi Alagbe ([@alagbeooao](https://github.com/alagbeooao))
